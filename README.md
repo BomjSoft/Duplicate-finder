@@ -1,5 +1,6 @@
 # Duplicate-finder
 The program searches for similar images in the directories selected by the user. When you remove duplicates with this program, the files are sent to the trash.
+
 Supported image formats: jpeg, png, bmp, tga.
 
 # Assembly requirements
